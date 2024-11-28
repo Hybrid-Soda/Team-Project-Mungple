@@ -182,7 +182,7 @@
       ▪ 팀장 담당<br> ▪ 프로젝트 일정 관리 및 발표<br> ▪ 전반적인 UI 개선 및 디자인<br> ▪ 웹 소켓 연결 로직 및 관련 데이터/함수<br> ▪ 산책 기록 관련 기능 
     </td>
     <td style="text-align: center; word-wrap: break-word;">
-      ▪ 화면 구조 설계 및 네비게이터 구현<br>▪ OAuth 및 회원 관련 기능<br>▪ 산책 기능 및 위치 전송 웹 소켓<br>▪ React-query 사용 및 화면 렌더 성능 향상<br>▪ 앱 테마 디자인 및 퍼블리싱<br>
+      ▪ 화면 구조 설계 및 네비게이터 구현<br>▪ OAuth 인증 연동 및 회원가입, 로그인, 토큰 관리 등 회원 관련 기능 구현<br>▪ 산책 기능 및 위치 전송 웹 소켓 구현<br>▪ 커스텀 캘린더 컴포넌트 설계 및 구현<br>▪ React Query를 활용한 상태 관리 및 성능 최적화<br>▪ 앱 테마 디자인 및 퍼블리싱<br>
     </td>
     <td style="text-align: center; word-wrap: break-word;">
       ▪ geolocation 및 googlemap api를 활용한 지도 구현<br>▪ 마커 생성, 상세 정보 조회 및 마커 클러스터링 기능, 커스텀 마커 구현<br>▪ geohash로 들어오는 데이터를 geolocation을 통해 5초 간격으로 갱신하는 로직 구현<br>▪ 블루존, 레드존, 멍플 기능 구현<br>▪ 로딩 스피너, 스플래시 스크린 구현
